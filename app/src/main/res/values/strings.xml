@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guess number</string>
+    <string name="more">More!</string>
+    <string name="less">Undershoot!</string>
+    <string name="equal">Success!!! Count of trying: %d</string>
+    <string name="hello_message">Try to guess number!</string>
+    <string name="text_button">Try!</string>
+    <string name="input_hint">Enter number</string>
+    <string name="replay">Replay</string>
+    <string name="warning">Please, input number!</string>
+    <string name="start_game">Start!</string>
+</resources>

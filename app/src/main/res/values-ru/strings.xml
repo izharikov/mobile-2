@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Угадай число!</string>
+    <string name="more">Перелет!</string>
+    <string name="less">Недолет!</string>
+    <string name="equal">В точку!!! Количество попыток: %d</string>
+    <string name="hello_message">Попробуйте угадать число</string>
+    <string name="text_button">Ввести число!</string>
+    <string name="input_hint">Число</string>
+    <string name="replay">Переиграть</string>
+    <string name="warning">Необходимо ввести число!</string>
+    <string name="start_game">Начать!</string>
+</resources>
